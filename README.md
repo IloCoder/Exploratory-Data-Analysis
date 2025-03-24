@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) Notebooks
 
-📊 Overview
+**📊 Overview**
 
 This repository contains Jupyter Notebooks focused on **``Exploratory Data Analysis (EDA)``** for various datasets. The goal of these notebooks is to uncover patterns, trends, and insights using statistical summaries, data visualization, and feature engineering.
 
